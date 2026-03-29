@@ -1,0 +1,22 @@
+{
+  "name": "structurex-frontend",
+  "version": "1.0.0",
+  "description": "StructureX — AI Digital Twin Command Center for Smart City Infrastructure Risk Intelligence",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "digital-twin",
+    "infrastructure",
+    "ai",
+    "risk-assessment"
+  ],
+  "author": "StructureX Team",
+  "license": "MIT",
+  "dependencies": {
+    "@maptiler/sdk": "^3.10.2",
+    "plotly.js-dist-min": "^2.29.1"
+  }
+}
